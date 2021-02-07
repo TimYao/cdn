@@ -1,2 +1,2 @@
 # cdn
-the repository  is a cdn repository for github
+the repository  is a cdn repository for github to jsDeliver
